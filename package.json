@@ -11,7 +11,7 @@
     "express"
   ],
   "author": "carlososuna86@gmail.com",
-  "license": "GPL-2.0-only",
+  "license": "GPL-3.0-only",
   "dependencies": {
     "express": "^4.17.1"
   }
